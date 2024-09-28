@@ -1,8 +1,11 @@
+<b>Hi,</b>
+
 I’m A. Wahab, a passionate and flexible Graphic Designer with over 10 years of experience delivering creative and innovative design solutions.
 I specialize in a wide range of design services, including logo creation, branding, social media graphics, photo editing, retouching and
 print materials like brochures, business cards, and flyers. My goal is to use my skills and expertise to help your business grow and strengthen your brand identity.
 
-👀 DESIGN SERVICES I AM OFFERING: 
+<b>
+👀 DESIGN SERVICES I AM OFFERING: </b>
 
     😄 Logo Design  
   
@@ -24,7 +27,7 @@ print materials like brochures, business cards, and flyers. My goal is to use my
 
     😄 Menu Design
 
-✨ PHOTO EDITING SERVICES I PROVIED: 
+<b>✨ PHOTO EDITING SERVICES I PROVIED: </b>
   
     😄Background Remove/Change Background 
   
@@ -54,7 +57,7 @@ print materials like brochures, business cards, and flyers. My goal is to use my
   
     😄 Ghost mannequin 
   
-✨ Why work with me?
+<u><b>✨ Why work with me?</b><u/>
   
     😄 Strong attention to detai
   
